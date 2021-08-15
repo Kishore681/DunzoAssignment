@@ -1,0 +1,495 @@
+10
+6
+19
+apple_juice 118
+bornvita 87
+chocolate 119
+coco_cola 69
+corn_flakes 71
+ginger_syrup 72
+horlicks 73
+hot_milk 65
+hot_water 118
+nutella 71
+oreo 72
+peanut_butter 111
+pepsi 76
+pine_apple 66
+sprite 115
+sugar_syrup 100
+tea_leaves_syrup 63
+vanilla_ice_cream 83
+water_melon 117
+cappuccino
+3
+pine_apple 54
+sugar_syrup 24
+tea_leaves_syrup 27
+chilled_chunky_brownie
+4
+kit_kat 37
+nutella 24
+strawberry 44
+vanilla_ice_cream 46
+classic_frappe
+4
+chocolate 27
+ginger_syrup 55
+pine_apple 77
+tea_leaves_syrup 21
+hot_coffee
+3
+corn_flakes 35
+ginger_syrup 33
+water_melon 62
+macchiato
+4
+bornvita 44
+chocolate 42
+ginger_syrup 37
+vanilla_ice_cream 60
+nutella_shake
+3
+kit_kat 62
+tea_leaves_syrup 52
+water_melon 57
+4
+20
+apple_juice 92
+bornvita 102
+chocolate 109
+coco_cola 102
+corn_flakes 102
+cucumber 60
+ginger_syrup 85
+horlicks 69
+hot_water 84
+kit_kat 71
+nutella 67
+orange 81
+oreo 114
+peanut_butter 118
+pine_apple 92
+sprite 81
+strawberry 53
+sugar_syrup 111
+tea_leaves_syrup 60
+water_melon 75
+chilled_chunky_brownie
+3
+chocolate 27
+orange 64
+strawberry 45
+chocolate_shake
+3
+ginger_syrup 46
+hot_milk 76
+sprite 36
+espresso
+4
+coco_cola 61
+corn_flakes 51
+cucumber 74
+orange 66
+mocha
+4
+cucumber 43
+hot_water 30
+sprite 55
+tea_leaves_syrup 66
+4
+18
+apple_juice 101
+chocolate 88
+coco_cola 107
+cucumber 102
+ginger_syrup 118
+horlicks 120
+hot_milk 50
+hot_water 117
+kit_kat 74
+nutella 72
+orange 63
+oreo 109
+peanut_butter 70
+pepsi 97
+pine_apple 100
+tea_leaves_syrup 90
+vanilla_ice_cream 95
+water_melon 80
+black_tea
+3
+kit_kat 24
+oreo 23
+water_melon 70
+cappuccino
+4
+apple_juice 54
+nutella 76
+pepsi 59
+water_melon 21
+hot_tea
+3
+nutella 55
+peanut_butter 50
+sugar_syrup 71
+peanut_butter
+3
+apple_juice 26
+kit_kat 23
+oreo 56
+4
+20
+apple_juice 68
+chocolate 108
+coco_cola 70
+corn_flakes 90
+cucumber 59
+ginger_syrup 97
+horlicks 76
+hot_milk 65
+hot_water 82
+kit_kat 79
+nutella 94
+orange 71
+oreo 72
+peanut_butter 59
+pepsi 96
+pine_apple 100
+sprite 74
+strawberry 109
+tea_leaves_syrup 99
+water_melon 77
+cappuccino
+4
+pepsi 74
+sprite 28
+strawberry 63
+vanilla_ice_cream 45
+macchiato
+3
+corn_flakes 53
+hot_milk 41
+kit_kat 50
+mocha
+4
+bornvita 29
+cucumber 45
+tea_leaves_syrup 75
+water_melon 64
+oreo_shake
+3
+pepsi 79
+tea_leaves_syrup 52
+vanilla_ice_cream 57
+4
+20
+apple_juice 71
+bornvita 64
+chocolate 83
+coco_cola 68
+corn_flakes 116
+cucumber 76
+ginger_syrup 87
+horlicks 66
+hot_milk 99
+nutella 56
+orange 117
+oreo 64
+peanut_butter 108
+pepsi 95
+pine_apple 97
+strawberry 70
+sugar_syrup 82
+tea_leaves_syrup 118
+vanilla_ice_cream 80
+water_melon 91
+chilled_chunky_brownie
+4
+hot_milk 55
+hot_water 74
+kit_kat 51
+orange 47
+espresso
+3
+hot_milk 43
+tea_leaves_syrup 26
+water_melon 71
+green_tea
+4
+apple_juice 46
+bornvita 30
+chocolate 66
+oreo 43
+mocha
+4
+bornvita 27
+chocolate 74
+corn_flakes 25
+hot_water 29
+6
+20
+apple_juice 96
+chocolate 110
+coco_cola 90
+corn_flakes 64
+cucumber 69
+horlicks 78
+hot_milk 65
+hot_water 101
+kit_kat 92
+nutella 110
+orange 114
+oreo 115
+peanut_butter 68
+pepsi 54
+pine_apple 87
+sprite 96
+strawberry 76
+sugar_syrup 97
+tea_leaves_syrup 72
+vanilla_ice_cream 57
+affogato
+3
+coco_cola 32
+pine_apple 27
+water_melon 48
+hot_coffee
+3
+chocolate 75
+corn_flakes 40
+sprite 44
+hot_tea
+4
+apple_juice 49
+chocolate 70
+kit_kat 51
+peanut_butter 45
+iced_latte
+4
+bornvita 37
+chocolate 64
+pepsi 33
+pine_apple 48
+nutella_shake
+4
+cucumber 62
+ginger_syrup 72
+oreo 58
+sprite 67
+peanut_butter
+4
+apple_juice 70
+hot_milk 63
+peanut_butter 67
+strawberry 75
+6
+18
+apple_juice 105
+bornvita 62
+chocolate 89
+coco_cola 64
+corn_flakes 106
+cucumber 108
+hot_water 81
+kit_kat 75
+nutella 116
+orange 53
+oreo 65
+pepsi 63
+pine_apple 64
+strawberry 50
+sugar_syrup 94
+tea_leaves_syrup 87
+vanilla_ice_cream 97
+water_melon 113
+black_tea
+3
+nutella 78
+pine_apple 65
+water_melon 32
+cappuccino
+3
+corn_flakes 77
+hot_milk 36
+orange 68
+classic_frappe
+4
+corn_flakes 67
+cucumber 22
+ginger_syrup 60
+pepsi 31
+hot_coffee
+4
+apple_juice 44
+coco_cola 79
+cucumber 38
+nutella 30
+mocha
+4
+coco_cola 77
+corn_flakes 59
+hot_water 30
+pine_apple 76
+oreo_shake
+3
+kit_kat 36
+sugar_syrup 72
+vanilla_ice_cream 75
+6
+18
+apple_juice 107
+bornvita 83
+coco_cola 93
+corn_flakes 118
+ginger_syrup 67
+horlicks 55
+hot_milk 71
+hot_water 93
+kit_kat 52
+nutella 68
+orange 50
+oreo 75
+pine_apple 87
+sprite 113
+strawberry 58
+sugar_syrup 81
+tea_leaves_syrup 55
+water_melon 114
+americano
+4
+peanut_butter 54
+pepsi 77
+strawberry 53
+sugar_syrup 69
+chilled_chunky_brownie
+4
+chocolate 75
+cucumber 27
+hot_water 21
+pine_apple 36
+chocolate_shake
+3
+bornvita 27
+kit_kat 54
+tea_leaves_syrup 39
+frozen_mocha
+4
+ginger_syrup 43
+nutella 57
+pine_apple 21
+vanilla_ice_cream 73
+mango_delight
+4
+coco_cola 60
+orange 54
+peanut_butter 69
+vanilla_ice_cream 70
+peanut_butter
+3
+nutella 70
+strawberry 31
+water_melon 77
+5
+19
+apple_juice 63
+bornvita 108
+coco_cola 59
+corn_flakes 107
+cucumber 102
+ginger_syrup 92
+horlicks 78
+hot_milk 114
+hot_water 84
+kit_kat 62
+nutella 62
+oreo 60
+peanut_butter 72
+pepsi 79
+pine_apple 80
+sprite 68
+sugar_syrup 81
+tea_leaves_syrup 106
+vanilla_ice_cream 104
+americano
+3
+cucumber 69
+hot_milk 74
+orange 26
+black_tea
+3
+corn_flakes 20
+ginger_syrup 54
+horlicks 66
+green_tea
+4
+bornvita 42
+cucumber 61
+nutella 59
+peanut_butter 71
+hot_Chocolate
+4
+coco_cola 74
+orange 53
+oreo 77
+sprite 35
+mango_delight
+4
+corn_flakes 42
+horlicks 76
+pepsi 60
+vanilla_ice_cream 75
+6
+20
+apple_juice 61
+bornvita 50
+chocolate 66
+coco_cola 118
+corn_flakes 99
+cucumber 99
+ginger_syrup 106
+horlicks 118
+hot_milk 82
+kit_kat 51
+nutella 113
+orange 63
+oreo 59
+peanut_butter 82
+pine_apple 63
+sprite 73
+strawberry 78
+sugar_syrup 69
+vanilla_ice_cream 82
+water_melon 86
+affogato
+3
+hot_water 64
+peanut_butter 29
+pine_apple 68
+green_tea
+4
+horlicks 67
+hot_water 66
+nutella 24
+orange 63
+hot_Chocolate
+3
+bornvita 38
+chocolate 60
+sprite 64
+hot_tea
+4
+apple_juice 41
+corn_flakes 68
+ginger_syrup 58
+sprite 21
+mango_delight
+3
+corn_flakes 47
+hot_milk 79
+oreo 69
+oreo_shake
+3
+apple_juice 39
+corn_flakes 29
+pepsi 51
